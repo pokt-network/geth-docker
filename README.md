@@ -1,3 +1,6 @@
+# NOTE:
+This repository has been deprecated, please visit the [Pocket Core repository for the latest on Pocket development.](https://github.com/pokt-network/pocket-core)
+
 # geth-rinkeby-docker
 
 > Run a [geth](https://github.com/ethereum/go-ethereum) node that syncs up with [rinkeby](https://www.rinkeby.io/) testnet in a [Docker](https://www.docker.com/) container.
